@@ -1,0 +1,11 @@
+# Compiled Java bytecode — never commit these
+*.class
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Build output folders
+bin/
+out/
+target/
